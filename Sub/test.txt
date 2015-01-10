@@ -1,3 +1,4 @@
 Hello world
 It's sunny outside
 And big.
+And beautiful
